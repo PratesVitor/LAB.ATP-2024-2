@@ -1,0 +1,14 @@
+C:\Users\vitor\Área de Trabalho\ATP\LAB-03\bin\Debug\net8.0\LAB-03.exe
+C:\Users\vitor\Área de Trabalho\ATP\LAB-03\bin\Debug\net8.0\LAB-03.deps.json
+C:\Users\vitor\Área de Trabalho\ATP\LAB-03\bin\Debug\net8.0\LAB-03.runtimeconfig.json
+C:\Users\vitor\Área de Trabalho\ATP\LAB-03\bin\Debug\net8.0\LAB-03.dll
+C:\Users\vitor\Área de Trabalho\ATP\LAB-03\bin\Debug\net8.0\LAB-03.pdb
+C:\Users\vitor\Área de Trabalho\ATP\LAB-03\obj\Debug\net8.0\LAB-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Área de Trabalho\ATP\LAB-03\obj\Debug\net8.0\LAB-03.AssemblyInfoInputs.cache
+C:\Users\vitor\Área de Trabalho\ATP\LAB-03\obj\Debug\net8.0\LAB-03.AssemblyInfo.cs
+C:\Users\vitor\Área de Trabalho\ATP\LAB-03\obj\Debug\net8.0\LAB-03.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Área de Trabalho\ATP\LAB-03\obj\Debug\net8.0\LAB-03.dll
+C:\Users\vitor\Área de Trabalho\ATP\LAB-03\obj\Debug\net8.0\refint\LAB-03.dll
+C:\Users\vitor\Área de Trabalho\ATP\LAB-03\obj\Debug\net8.0\LAB-03.pdb
+C:\Users\vitor\Área de Trabalho\ATP\LAB-03\obj\Debug\net8.0\LAB-03.genruntimeconfig.cache
+C:\Users\vitor\Área de Trabalho\ATP\LAB-03\obj\Debug\net8.0\ref\LAB-03.dll
